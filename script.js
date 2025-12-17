@@ -50,6 +50,8 @@ scrivi: Buzz
 
 
 // ? 4) ELABORAZIONE
+//i uguale a 1 perché voglio iniziare da 1
+for(let i = 1)
 
 
 
