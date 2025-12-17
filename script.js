@@ -22,10 +22,29 @@ Buon lavoro e buon divertimento!
  */
 
 // ? 2) PSEUDO CODICE
+/* 
 
+Per ogni numero da 1 a 100
+SE il numero è divisibile per 15: // TODO verificare se 15 va bene come ragionamento
+scrivi: FizzBuzz
 
+ALTRIMENTI SE il numero è divisibile per 3:
+scrivi: Fizz
 
+ALTRIMENTI:
+scrivi: Buzz
+*/
 // ? 3) RACCOLTA DATI
+
+/*
+Stampare numeri da 1 a 100;
+Per i multipli di 3 stampa Fizz;
+Per i multipli di 5 stampa Buzz;
+Per i multipli di 15 stampa FizzBuzz.
+*/
+
+// TODO Come faccio a sapere se un numero è divisibile per?
+
 
 // ? 4) ELABORAZIONE
 
