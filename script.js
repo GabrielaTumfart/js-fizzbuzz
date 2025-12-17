@@ -1,3 +1,5 @@
+// ? 1) TRACCIA
+
 /*
 Ciao ragazzi,
 Esercizio di oggi: FizzBuzz
@@ -18,3 +20,15 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 
 Buon lavoro e buon divertimento! 
  */
+
+// ? 2) PSEUDO CODICE
+
+
+
+// ? 3) RACCOLTA DATI
+
+// ? 4) ELABORAZIONE
+
+
+
+// ? 5) OUTPUT
