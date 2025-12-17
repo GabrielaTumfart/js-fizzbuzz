@@ -53,14 +53,12 @@ scrivi: Buzz
 
 //  la condizione 
 
-
-
-
 // i uguale a 1 perché voglio iniziare da 1
+
 
 for (let i = 1; i <= 100; i++) {
 
-    if (i % 3 === 0 && i % 5 ===0) {
+    if (i % 3 === 0 && i % 5 === 0) {
 
         console.log("FizzBuzz");
 
@@ -81,3 +79,4 @@ for (let i = 1; i <= 100; i++) {
 
 
 // ? 5) OUTPUT
+
