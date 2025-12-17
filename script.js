@@ -50,12 +50,23 @@ scrivi: Buzz
 
 
 // ? 4) ELABORAZIONE
-//i uguale a 1 perché voglio iniziare da 1
 
+//  la condizione 
+
+
+
+
+//i uguale a 1 perché voglio iniziare da 1
 for (let i = 1; i <= 100; i++) {
     console.log(i);
 }
 
+if (i % 15 === 0) {
+
+    console.log(i);
+    
+    
+} 
 
 
 
