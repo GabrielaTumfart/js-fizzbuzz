@@ -21,7 +21,20 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 Buon lavoro e buon divertimento! 
  */
 
-// ? 2) PSEUDO CODICE
+
+
+// ? 2) RACCOLTA DATI
+
+/*
+Stampare numeri da 1 a 100;
+Per i multipli di 3 stampa Fizz;
+Per i multipli di 5 stampa Buzz;
+Per i multipli di 15 stampa FizzBuzz.
+*/
+
+// TODO Come faccio a sapere se un numero è divisibile per?
+
+// ? 3) PSEUDO CODICE
 /* 
 
 Per ogni numero da 1 a 100
@@ -34,16 +47,6 @@ scrivi: Fizz
 ALTRIMENTI:
 scrivi: Buzz
 */
-// ? 3) RACCOLTA DATI
-
-/*
-Stampare numeri da 1 a 100;
-Per i multipli di 3 stampa Fizz;
-Per i multipli di 5 stampa Buzz;
-Per i multipli di 15 stampa FizzBuzz.
-*/
-
-// TODO Come faccio a sapere se un numero è divisibile per?
 
 
 // ? 4) ELABORAZIONE
