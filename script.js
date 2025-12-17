@@ -29,7 +29,7 @@ Buon lavoro e buon divertimento!
 Stampare numeri da 1 a 100;
 Per i multipli di 3 stampa Fizz;
 Per i multipli di 5 stampa Buzz;
-Per i multipli di 15 stampa FizzBuzz.
+Per i multipli di 3 e 5 stampa FizzBuzz.
 */
 
 // TODO Come faccio a sapere se un numero è divisibile per?
@@ -57,10 +57,10 @@ scrivi: Buzz
 
 
 // i uguale a 1 perché voglio iniziare da 1
-for (let i = 1; i <= 100; i++) {
-    console.log(i);
 
-    if (i % 15 === 0) {
+for (let i = 1; i <= 100; i++) {
+
+    if (i % 3 === 0 && i % 5 ===0) {
 
         console.log("FizzBuzz");
 
@@ -78,11 +78,6 @@ for (let i = 1; i <= 100; i++) {
     }
 
 } 
-}
-
-
-
-
 
 
 // ? 5) OUTPUT
