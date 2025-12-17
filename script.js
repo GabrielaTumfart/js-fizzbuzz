@@ -51,8 +51,17 @@ scrivi: Buzz
 
 // ? 4) ELABORAZIONE
 //i uguale a 1 perché voglio iniziare da 1
-for(let i = 1; i <= 100; i++);
-console.log(i);
+
+for (let i = 1; index < array.length; index++) {
+    const element = array[index];
+    
+}
+
+for (let i = 1; i <= 100; i++) {
+    console.log(i);
+};
+
+
 
 
 
